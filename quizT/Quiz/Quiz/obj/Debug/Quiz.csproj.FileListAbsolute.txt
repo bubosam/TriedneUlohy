@@ -1,0 +1,9 @@
+c:\users\boush\documents\visual studio 2015\Projects\Quiz\Quiz\bin\Debug\Quiz.exe.config
+c:\users\boush\documents\visual studio 2015\Projects\Quiz\Quiz\bin\Debug\Quiz.exe
+c:\users\boush\documents\visual studio 2015\Projects\Quiz\Quiz\bin\Debug\Quiz.pdb
+c:\users\boush\documents\visual studio 2015\Projects\Quiz\Quiz\obj\Debug\Quiz.csprojResolveAssemblyReference.cache
+c:\users\boush\documents\visual studio 2015\Projects\Quiz\Quiz\obj\Debug\Quiz.Form1.resources
+c:\users\boush\documents\visual studio 2015\Projects\Quiz\Quiz\obj\Debug\Quiz.Properties.Resources.resources
+c:\users\boush\documents\visual studio 2015\Projects\Quiz\Quiz\obj\Debug\Quiz.csproj.GenerateResource.Cache
+c:\users\boush\documents\visual studio 2015\Projects\Quiz\Quiz\obj\Debug\Quiz.exe
+c:\users\boush\documents\visual studio 2015\Projects\Quiz\Quiz\obj\Debug\Quiz.pdb
