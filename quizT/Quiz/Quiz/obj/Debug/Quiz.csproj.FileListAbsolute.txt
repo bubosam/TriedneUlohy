@@ -7,3 +7,12 @@ c:\users\boush\documents\visual studio 2015\Projects\Quiz\Quiz\obj\Debug\Quiz.Pr
 c:\users\boush\documents\visual studio 2015\Projects\Quiz\Quiz\obj\Debug\Quiz.csproj.GenerateResource.Cache
 c:\users\boush\documents\visual studio 2015\Projects\Quiz\Quiz\obj\Debug\Quiz.exe
 c:\users\boush\documents\visual studio 2015\Projects\Quiz\Quiz\obj\Debug\Quiz.pdb
+C:\Users\Boss\Documents\Visual Studio 2015\Projects\quizT\Quiz\Quiz\bin\Debug\Quiz.exe.config
+C:\Users\Boss\Documents\Visual Studio 2015\Projects\quizT\Quiz\Quiz\obj\Debug\Quiz.exe
+C:\Users\Boss\Documents\Visual Studio 2015\Projects\quizT\Quiz\Quiz\obj\Debug\Quiz.pdb
+C:\Users\Boss\Documents\Visual Studio 2015\Projects\quizT\Quiz\Quiz\bin\Debug\Quiz.exe
+C:\Users\Boss\Documents\Visual Studio 2015\Projects\quizT\Quiz\Quiz\bin\Debug\Quiz.pdb
+C:\Users\Boss\Documents\Visual Studio 2015\Projects\quizT\Quiz\Quiz\obj\Debug\Quiz.csprojResolveAssemblyReference.cache
+C:\Users\Boss\Documents\Visual Studio 2015\Projects\quizT\Quiz\Quiz\obj\Debug\Quiz.Form1.resources
+C:\Users\Boss\Documents\Visual Studio 2015\Projects\quizT\Quiz\Quiz\obj\Debug\Quiz.Properties.Resources.resources
+C:\Users\Boss\Documents\Visual Studio 2015\Projects\quizT\Quiz\Quiz\obj\Debug\Quiz.csproj.GenerateResource.Cache
